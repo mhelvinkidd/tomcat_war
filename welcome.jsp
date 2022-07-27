@@ -41,7 +41,7 @@
             Dtime = Time.toString();
             %>
         
-        <h2> This is a Sample Web Application - Snoop Servlet  </h2>
+        <h2> This is a Sample Web Application - Mhelvin Bukid  </h2>
         <hr>
         
          <div>
